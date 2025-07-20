@@ -12,3 +12,5 @@ Backend: MongoDB Atlas Cluster
 Libraries: Pandas, Seaborn, Matplotlib
 
 Concepts: OOPs, Data Visualization, Filtering, User Interaction
+
+Disclaimer: OffBeat Destinations is a mock-up website. In reality, such a site doesn't exist.
