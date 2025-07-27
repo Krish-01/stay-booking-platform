@@ -1,0 +1,31 @@
+🚀 Project Milestone: Data Analysis Project – ML & Gen AI Bootcamp 🧠💡
+Over the past few weeks, I had the incredible opportunity to work on a real-world data analysis project as part of the Machine Learning and Generative AI Bootcamp, mentored by Monal Sir 🙌.
+
+🔍 Project Overview:
+ OffBeat Destinations is a third-party booking platform offering unique holiday stays—apartments, villas, lofts—tailored to customer preferences. My task was to analyze booking trends and generate personalized reports for customers based on their selections.
+
+🛠️ Tools & Technologies Used:
+Language: Python
+Backend: MongoDB Atlas Cluster
+Libraries: Pandas, Seaborn, Matplotlib
+Concepts: OOPs, Data Visualization, Filtering, User Interaction
+
+📊 From building a smooth user journey to generating insightful PDF reports, this project deepened my understanding of backend integration, data engineering, and interactive analysis—all aligned with real business use cases!
+------------------------------------------------------------------------------------------------------------------------------------------
+🔧 Problem Statement
+Objective:
+Design and implement a scalable data analysis pipeline for OffBeat Destinations, a third-party holiday booking platform, to process and analyze rental listings based on user preferences, and generate personalized insight reports to aid customer booking decisions.
+
+Key Challenges:
+
+Ingest semi-structured property listing data from a MongoDB backend server
+
+Enable user-driven selection (e.g., city, property type, price range, rating) via an interactive CLI interface
+
+Clean, filter, and analyze the data using pandas and custom logic
+
+Visualize booking trends using Seaborn and Matplotlib
+
+Dynamically generate multi-page PDF reports containing charts and filtered tabular data personalized to user selections
+
+Implement end-to-end flow using object-oriented Python design principles
